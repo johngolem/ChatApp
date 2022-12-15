@@ -1,0 +1,186 @@
+CourseId,CourseSection,CourseName,Location,StartDate,EndDate,Start_Time,End_Time,DurationMinutes,Class_Days,Description
+ACC1011,A,Principles of Accounting I,LEWIS 203,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,ACC1011A: Principles of Accounting I
+ACC3031,A,ST: Forensic Accounting,LEWIS 203,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,ACC3031A: ST: Forensic Accounting
+ADV0321,A,On Course For Academic Success,STONE COFHSE,8/29/2022,12/16/2022,6:30:00 PM,7:30:00 PM,60,Wednesday,ADV0321A: On Course For Academic Success
+ANT1011,A,Introduction to Cultural Anthropology,ADMIN 206,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,ANT1011A: Introduction to Cultural Anthropology
+ART1601,A,Digital Foundations,FAB 412,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,ART1601A: Digital Foundations
+ART1601,B,Digital Foundations,FAB 412,8/29/2022,12/16/2022,4:30:00 PM,6:00:00 PM,90,MTh,ART1601B: Digital Foundations
+ART2110,A,ST: Sculpture I,FAB 406,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,ART2110A: ST: Sculpture I
+ART2110,B,ST: Sculpture I,FAB 406,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,ART2110B: ST: Sculpture I
+ART2251,A,Graphic Design I,FAB 301,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,ART2251A: Graphic Design I
+ART3033,A,"ST: Create, Critique, Repeat",FAB 409,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,"ART3033A: ST: Create, Critique, Repeat"
+BIO1521,A,Principles of Biology I,STEM 221,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,BIO1521A: Principles of Biology I
+BIO1521,A,Principles of Biology I,STEM 221,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Thursday,BIO1521A: Principles of Biology I
+BIO1521,B,Principles of Biology I,STEM 221,8/29/2022,12/16/2022,8:30:00 AM,9:30:00 AM,60,MWF,BIO1521B: Principles of Biology I
+BIO1521,B,Principles of Biology I,STEM 221,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Monday,BIO1521B: Principles of Biology I
+BIO1611,A,ST:Human Disease and Society,STEM 207,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,BIO1611A: ST:Human Disease and Society
+BIO1611,A,ST:Human Disease and Society,STEM 207,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Monday,BIO1611A: ST:Human Disease and Society
+BIO2024,A,ST: Genetics,STEM 227,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,BIO2024A: ST: Genetics
+BIO2024,A,ST: Genetics,STEM 227,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Thursday,BIO2024A: ST: Genetics
+BIO2051,A,ST: Comparative Vertebrate Anatomy,STEM 207,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Thursday,BIO2051A: ST: Comparative Vertebrate Anatomy
+BIO2051,A,ST: Comparative Vertebrate Anatomy,STEM 207,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,MWF,BIO2051A: ST: Comparative Vertebrate Anatomy
+BIO3051,A,ST: Cell and Molecular Biology,STEM 227,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,BIO3051A: ST: Cell and Molecular Biology
+BIO3051,A,ST: Cell and Molecular Biology,STEM 227,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Tuesday,BIO3051A: ST: Cell and Molecular Biology
+BIO4011,A,ST: Research Methods and Design,STEM 217,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,BIO4011A: ST: Research Methods and Design
+BUS1011,A,Introduction to Business,LEWIS 004,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,BUS1011A: Introduction to Business
+BUS1200,A,ST:Employment Readiness Experience,LEWIS 104,8/29/2022,12/16/2022,9:00:00 AM,10:00:00 AM,60,TuF,BUS1200A: ST:Employment Readiness Experience
+BUS2021,A,Entrepreneurship and Innovation,LEWIS 004,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,BUS2021A: Entrepreneurship and Innovation
+CER2011,A,Ceramics I,FAB 303,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,CER2011A: Ceramics I
+CER2011,B,Ceramics I,FAB 303,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,CER2011B: Ceramics I
+CER3011,A,Ceramics II,FAB 303,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,MTh,CER3011A: Ceramics II
+CHE1521,A,Principles of Chemistry I,STEM 205,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,CHE1521A: Principles of Chemistry I
+CHE1521,A,Principles of Chemistry I,STEM 205,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Tuesday,CHE1521A: Principles of Chemistry I
+CHE2011,A,Organic Chemistry,STEM 205,8/29/2022,12/16/2022,1:00:00 PM,4:00:00 PM,180,Thursday,CHE2011A: Organic Chemistry
+CHE2011,A,Organic Chemistry,STEM 205,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,MWF,CHE2011A: Organic Chemistry
+COM0111,A,Language and Communication,LEWIS 108,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,COM0111A: Language and Communication
+COM1011,A,Introduction to Communications,LEWIS 005,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,COM1011A: Introduction to Communications
+COM1011,B,Introduction to Communications,LEWIS 108,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,COM1011B: Introduction to Communications
+COM1011,C,Introduction to Communications,LEWIS 004,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,MTh,COM1011C: Introduction to Communications
+COM1011,D,Introduction to Communications,LEWIS 003,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,MW,COM1011D: Introduction to Communications
+COM1011,E,Introduction to Communications,LEWIS 003,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,COM1011E: Introduction to Communications
+COM1011,F,Introduction to Communications,LEWIS 004,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,MWF,COM1011F: Introduction to Communications
+COM1011,G,Introduction to Communications,LEWIS 005,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,COM1011G: Introduction to Communications
+COM1111,A,ST: Digital Storytelling 1,LEWIS 102,8/29/2022,12/16/2022,3:00:00 PM,4:00:00 PM,60,Tuesday,COM1111A: ST: Digital Storytelling 1
+COM1160,A,Radio Training,FAB THEATR,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Wednesday,COM1160A: Radio Training
+COM1180,A,Mediation Skills,LEWIS 102,8/29/2022,12/16/2022,11:30:00 AM,12:30:00 PM,60,Thursday,COM1180A: Mediation Skills
+COM2021,A,Interpersonal Communication,LEWIS 005,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,COM2021A: Interpersonal Communication
+COM2071,A,Public Speaking,ADMIN AUDIT,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,COM2071A: Public Speaking
+COM2160,A,ST: Radio Operation,FAB THEATR,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Wednesday,COM2160A: ST: Radio Operation
+COM3021,A,Relationships & Relational Communication,LEWIS AUDIT,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,COM3021A: Relationships & Relational Communication
+COM3041,A,ST: Leadership & Facilitation,LEWIS AUDIT,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,COM3041A: ST: Leadership & Facilitation
+COM3061,A,ST: Guided Leadership Practicum,LEWIS 005,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,COM3061A: ST: Guided Leadership Practicum
+COM3075,A,Radio Programming,LEWIS 003,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,COM3075A: Radio Programming
+COM3101,A,Publication Management,LEWIS 104,8/29/2022,12/16/2022,3:00:00 PM,4:00:00 PM,60,Thursday,COM3101A: Publication Management
+COM3111,A,ST: Digital Storytelling 3,LEWIS 102,8/29/2022,12/16/2022,3:00:00 PM,4:00:00 PM,60,Tuesday,COM3111A: ST: Digital Storytelling 3
+COM4000,A,ST: Capstone ,LEWIS 004,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,COM4000A: ST: Capstone 
+COM4160,A,ST: Radio Leadership,FAB THEATR,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Wednesday,COM4160A: ST: Radio Leadership
+CRW1011,A,Creative Writing,STEM 111,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,CRW1011A: Creative Writing
+CSC1635,A,Computer Science I,STEM 113,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,CSC1635A: Computer Science I
+CSC2635,A,Computer Science II,STEM 113,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,CSC2635A: Computer Science II
+CSC2638,A,Data Structures and Algorithms,STEM 113,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,CSC2638A: Data Structures and Algorithms
+CSC2771,A,Embedded Systems,STEM 014,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,CSC2771A: Embedded Systems
+CSC3731,A,ST: Programming Languages,STEM 113,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,CSC3731A: ST: Programming Languages
+CSC3871,A,Operating Systems,STEM 112,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,CSC3871A: Operating Systems
+CSC4741,A,Artificial Intelligence,STEM 113,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,CSC4741A: Artificial Intelligence
+CSC4992,A,Computer Science Capstone,STEM 014,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,CSC4992A: Computer Science Capstone
+DRW1011,A,Drawing Foundations,FAB 329,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,DRW1011A: Drawing Foundations
+DVS0911,A,Step Support WRT,LEWIS 203,8/29/2022,12/16/2022,9:30:00 AM,10:00:00 AM,30,MWF,DVS0911A: Step Support WRT
+DVS0911,B,Step Support EDU,ADMIN 014,8/29/2022,12/16/2022,2:00:00 PM,2:30:00 PM,30,MWF,DVS0911B: Step Support EDU
+DVS0911,D,Step Support EDU,ADMIN 015,8/29/2022,12/16/2022,3:45:00 PM,4:15:00 PM,30,MWF,DVS0911D: Step Support EDU
+DVS0911,E,Step Support EDU,STONE 015,8/29/2022,12/16/2022,2:00:00 PM,2:30:00 PM,30,MWF,DVS0911E: Step Support EDU
+DVS0911,G,Step Support WRT,LEWIS 202,8/29/2022,12/16/2022,11:30:00 AM,12:00:00 PM,30,MWF,DVS0911G: Step Support WRT
+DVS0911,H,Step Support WRT,LEWIS 102,8/29/2022,12/16/2022,11:30:00 AM,12:00:00 PM,30,MWF,DVS0911H: Step Support WRT
+ECN2021,A,Introduction to Microeconomics,LEWIS 004,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,ECN2021A: Introduction to Microeconomics
+EDU0111,A,Developing Reading & Study Strategies,STEM 104,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,EDU0111A: Developing Reading & Study Strategies
+EDU0911,A,College Learning Strategies,ADMIN 014,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,EDU0911A: College Learning Strategies
+EDU0911,C,College Learning Strategies,ADMIN 015,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,EDU0911C: College Learning Strategies
+EDU0911,D,College Learning Strategies,STONE 015,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,EDU0911D: College Learning Strategies
+EDU1011,A,Perspectives in Learning,ADMIN 013,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,EDU1011A: Perspectives in Learning
+EDU1011,B,Perspectives in Learning,ADMIN 013,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,EDU1011B: Perspectives in Learning
+EDU1011,C,Perspectives in Learning,LEWIS 204,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,EDU1011C: Perspectives in Learning
+EDU1011,D,Perspectives in Learning,LEWIS 203,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,EDU1011D: Perspectives in Learning
+EDU1011,E,Perspectives in Learning,LEWIS 102,8/29/2022,12/16/2022,8:30:00 AM,9:30:00 AM,60,MWF,EDU1011E: Perspectives in Learning
+EDU1011,F,Perspectives in Learning,LEWIS 006,8/29/2022,12/16/2022,8:30:00 AM,9:30:00 AM,60,MWF,EDU1011F: Perspectives in Learning
+EDU1011,G,Perspectives in Learning,ADMIN 207,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,EDU1011G: Perspectives in Learning
+EDU1011,H,Perspectives in Learning,ADMIN 207,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,MWF,EDU1011H: Perspectives in Learning
+EDU1011,I,Perspectives in Learning,LEWIS 108,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,MTh,EDU1011I: Perspectives in Learning
+EDU1011,J,Perspectives in Learning,LEWIS 108,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,EDU1011J: Perspectives in Learning
+EDU1011,K,Perspectives in Learning,LEWIS 006,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,EDU1011K: Perspectives in Learning
+EDU1021,A,Digital Literacy,ONLINE ,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,TuF,EDU1021A: Digital Literacy
+EDU2051,A,Learning Disabilities Seminar,STEM 013,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,EDU2051A: Learning Disabilities Seminar
+EDU2061,A,Education & Identity,LEWIS 006,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,EDU2061A: Education & Identity
+EDU2061,B,Education & Identity,ADMIN 016,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,EDU2061B: Education & Identity
+FIN1011,A,Personal Finance,LEWIS AUDIT,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,MTh,FIN1011A: Personal Finance
+FIN1011,B,Personal Finance,LEWIS AUDIT,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,FIN1011B: Personal Finance
+FLM3051,A,"Film, Culture and Identity",LEWIS AUDIT,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,"FLM3051A: Film, Culture and Identity"
+HIS1011,A,Humanities I: Anc & Med West Cult,LEWIS 005,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,HIS1011A: Humanities I: Anc & Med West Cult
+HIS1012,A,Humanities II: Renaissance to Present,LEWIS 102,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,HIS1012A: Humanities II: Renaissance to Present
+HIS1023,A,Global History I: to 1500,ADMIN 013,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,HIS1023A: Global History I: to 1500
+HIS1031,A,History of World Art I,LEWIS 003,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,Friday,HIS1031A: History of World Art I
+HIS1031,A,History of World Art I,ONLINE ,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,Tuesday,HIS1031A: History of World Art I
+HIS1031,B,History of World Art I,LEWIS 003,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,Friday,HIS1031B: History of World Art I
+HIS1031,B,History of World Art I,ONLINE ,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,Wednesday,HIS1031B: History of World Art I
+HIS2031,A,Civil War & Reconstruction,ADMIN 015,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,HIS2031A: Civil War & Reconstruction
+HIS3013,A,ST: Civil Rights & Social Movements,ADMIN 015,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,HIS3013A: ST: Civil Rights & Social Movements
+HIS3013,B,ST: Civil Rights & Social Movements,ADMIN 015,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,HIS3013B: ST: Civil Rights & Social Movements
+HTH3011,A,ST:Kinesiology,STEM 104,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,HTH3011A: ST:Kinesiology
+INT2012,A,ST: STEM Identity and Community,STEM 111,8/29/2022,12/16/2022,5:30:00 PM,6:30:00 PM,60,Wednesday,INT2012A: ST: STEM Identity and Community
+INT3001,A,Interdisciplinary Studies Seminar,ADMIN 014,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,INT3001A: Interdisciplinary Studies Seminar
+INT4000,A,ST: Interdisc Studies Capstone I,ADMIN 206,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,INT4000A: ST: Interdisc Studies Capstone I
+INT4001,A,Interdisciplinary Studies Capstone,ADMIN 206,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,INT4001A: Interdisciplinary Studies Capstone
+JRN2011,A,ST: Journalism,LEWIS 005,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,JRN2011A: ST: Journalism
+JRN2021,A,Multimedia Journalism,LEWIS 003,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,JRN2021A: Multimedia Journalism
+LIT2018,A,Short Fiction,ADMIN 206,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,LIT2018A: Short Fiction
+LIT2025,A,ST: New England Writers,ADMIN 209,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,LIT2025A: ST: New England Writers
+LIT2026,A,ST: Exploring Gender in Lit,ADMIN 023,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,LIT2026A: ST: Exploring Gender in Lit
+LIT3014,A,African-American Literature,ADMIN 209,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,LIT3014A: African-American Literature
+MAT0291,A,Essential College Mathematics,STONE 014,8/29/2022,12/16/2022,8:30:00 AM,9:30:00 AM,60,MWF,MAT0291A: Essential College Mathematics
+MAT0392,A,Pre-Algebra,STONE 014,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,MAT0392A: Pre-Algebra
+MAT1311,A,Mathematical Ideas,ADMIN 207,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,MTh,MAT1311A: Mathematical Ideas
+MAT1541,A,Intermediate Algebra,STONE 014,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,MAT1541A: Intermediate Algebra
+MAT1641,A,College Algebra,ADMIN 206,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,MAT1641A: College Algebra
+MAT2621,A,Applied Statistics,STEM 111,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,MAT2621A: Applied Statistics
+MAT2741,A,Linear Algebra,STEM 113,8/29/2022,12/16/2022,8:30:00 AM,10:30:00 AM,120,MTh,MAT2741A: Linear Algebra
+MGT2011,A,Principles of Management,LEWIS 203,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,MGT2011A: Principles of Management
+MUS1031,A,Basic Piano,FAB 206,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,MUS1031A: Basic Piano
+MUS1041,A,ST: Music Appreciation,FAB 301,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,MUS1041A: ST: Music Appreciation
+MUS1151,A,Chorus Level I,FAB 143,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Thursday,MUS1151A: Chorus Level I
+MUS1152,A,Chorus Level II,FAB 143,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Thursday,MUS1152A: Chorus Level II
+MUS1153,A,Chorus Level III,FAB 143,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Thursday,MUS1153A: Chorus Level III
+MUS1161,A,Jazz Ensemble Level I,FAB 143,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Monday,MUS1161A: Jazz Ensemble Level I
+MUS1162,A,Jazz Ensemble Level II,FAB 143,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Monday,MUS1162A: Jazz Ensemble Level II
+MUS1163,A,Jazz Ensemble Level III,FAB 143,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Monday,MUS1163A: Jazz Ensemble Level III
+PHE1131,A,Vinyasa Yoga,FAB DANCE,10/14/2022,12/12/2022,4:30:00 PM,5:30:00 PM,60,MTh,PHE1131A: Vinyasa Yoga
+PHE1153,A,Ballroom Dancing,FAB DANCE,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,Wednesday,PHE1153A: Ballroom Dancing
+PHE1175,A,Fundamentals of Sports & Exercise,CLKCEN ,8/29/2022,10/14/2022,4:30:00 PM,5:30:00 PM,60,MTh,PHE1175A: Fundamentals of Sports & Exercise
+PHE1175,B,Fundamentals of Sports & Exercise,CLKCEN ,10/17/2022,12/16/2022,6:30:00 PM,7:30:00 PM,60,MW,PHE1175B: Fundamentals of Sports & Exercise
+PHE1181,A,Walking for Health,LEWIS 108,8/29/2022,10/14/2022,4:30:00 PM,5:30:00 PM,60,MTh,PHE1181A: Walking for Health
+PHE1281,A,Plyometrics/Conditioning,CLKCEN ,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MTh,PHE1281A: Plyometrics/Conditioning
+PHO2021,A,Digital Photography I,FAB 412,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,PHO2021A: Digital Photography I
+PHO3021,A,Digital Photography II,FAB 412,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,PHO3021A: Digital Photography II
+PNT2011,A,Painting I,FAB 411,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,PNT2011A: Painting I
+PNT3021,A,Painting the Figure and Portrait,FAB 411,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,PNT3021A: Painting the Figure and Portrait
+POL3021,A,Understanding Global lnequality,LEWIS 006,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,POL3021A: Understanding Global lnequality
+PSY1011,A,Introduction to Psychology,STEM 104,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,PSY1011A: Introduction to Psychology
+PSY1011,B,Introduction to Psychology,ADMIN 209,8/29/2022,12/16/2022,4:30:00 PM,5:30:00 PM,60,MWF,PSY1011B: Introduction to Psychology
+PSY1011,C,Introduction to Psychology,ADMIN 016,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,PSY1011C: Introduction to Psychology
+PSY1011,D,Introduction to Psychology,ADMIN 016,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,PSY1011D: Introduction to Psychology
+PSY2011,A,ST: Psychology Research I,ADMIN 206,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,PSY2011A: ST: Psychology Research I
+PSY2021,A,Child Development,ADMIN 209,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,PSY2021A: Child Development
+PSY2081,A,Cognitive Psychology,ADMIN 015,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,PSY2081A: Cognitive Psychology
+PSY3041,A,Psychology of Emotion,ADMIN AUDIT,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,PSY3041A: Psychology of Emotion
+PSY3061,A,Diversity Psychology,ADMIN 209,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,PSY3061A: Diversity Psychology
+PSY3071,A,Writing in Psychology,ADMIN 209,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,PSY3071A: Writing in Psychology
+REL3041,A,ST: Religion & Sexuality,ADMIN 013,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,REL3041A: ST: Religion & Sexuality
+SOC3011,A,Civic Engagement,ADMIN 206,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,MTh,SOC3011A: Civic Engagement
+THE1011,A,Acting I,FAB 143,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,MTh,THE1011A: Acting I
+THE1013,A,ST: Spoken Word,FAB 143,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,THE1013A: ST: Spoken Word
+THE2014,A,ST: Stage to Screen,FAB 143,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,THE2014A: ST: Stage to Screen
+THE2017,A,SpT:Acting for Media,LEWIS 104,8/29/2022,12/16/2022,1:00:00 PM,2:30:00 PM,90,TuF,THE2017A: SpT:Acting for Media
+VID2011,A,Video I,FAB 412,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,VID2011A: Video I
+WIL0111,B,Wilson Small Group Instruction I,ADMIN 022B,8/29/2022,12/16/2022,2:00:00 PM,3:00:00 PM,60,TTH,WIL0111B: Wilson Small Group Instruction I
+WIL0111,C,Wilson Small Group Instruction I,ADMIN 022B,8/29/2022,12/16/2022,3:00:00 PM,4:00:00 PM,60,TTH,WIL0111C: Wilson Small Group Instruction I
+WIL0111,D,Wilson Small Group Instruction I,ADMIN 022B,8/29/2022,12/16/2022,10:00:00 AM,11:00:00 AM,60,MW,WIL0111D: Wilson Small Group Instruction I
+WIL0111,E,Wilson Small Group Instruction I,ADMIN 022B,8/29/2022,12/16/2022,11:00:00 AM,12:00:00 PM,60,MW,WIL0111E: Wilson Small Group Instruction I
+WRT0111,A,Fundamentals of Writing,LEWIS 202,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,WRT0111A: Fundamentals of Writing
+WRT0911,B,Practical Writing,LEWIS 202,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,WRT0911B: Practical Writing
+WRT0911,C,Practical Writing,LEWIS 102,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,WRT0911C: Practical Writing
+WRT0911,D,Practical Writing,LEWIS 203,8/29/2022,12/16/2022,8:30:00 AM,9:30:00 AM,60,MWF,WRT0911D: Practical Writing
+WRT1011,A,Composition and Rhetoric,LEWIS 204,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,WRT1011A: Composition and Rhetoric
+WRT1011,B,Composition and Rhetoric,LEWIS 204,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,WRT1011B: Composition and Rhetoric
+WRT1011,C,Composition and Rhetoric,LEWIS 204,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,WRT1011C: Composition and Rhetoric
+WRT1011,D,Composition and Rhetoric,ADMIN 014,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,WF,WRT1011D: Composition and Rhetoric
+WRT1011,E,Composition and Rhetoric,ADMIN 014,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,WF,WRT1011E: Composition and Rhetoric
+WRT1011,F,Composition and Rhetoric,STEM 013,8/29/2022,12/16/2022,8:30:00 AM,9:30:00 AM,60,MWF,WRT1011F: Composition and Rhetoric
+WRT1011,G,Composition and Rhetoric,STEM 013,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,WRT1011G: Composition and Rhetoric
+WRT1011,H,Composition and Rhetoric,STEM 013,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,WRT1011H: Composition and Rhetoric
+WRT1011,I,Composition and Rhetoric,LEWIS 003,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,TuF,WRT1011I: Composition and Rhetoric
+WRT1011,J,Composition and Rhetoric,LEWIS 202,8/29/2022,12/16/2022,8:30:00 AM,9:30:00 AM,60,MWF,WRT1011J: Composition and Rhetoric
+WRT1011,K,Composition and Rhetoric,LEWIS 104,8/29/2022,12/16/2022,10:30:00 AM,11:30:00 AM,60,MWF,WRT1011K: Composition and Rhetoric
+WRT1011,L,Composition and Rhetoric,LEWIS 202,8/29/2022,12/16/2022,1:00:00 PM,2:00:00 PM,60,MWF,WRT1011L: Composition and Rhetoric
+WRT1012,A,Research and Analysis,ADMIN 016,8/29/2022,12/16/2022,10:30:00 AM,12:00:00 PM,90,MTh,WRT1012A: Research and Analysis
+WRT1012,B,Research and Analysis,ADMIN 016,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,WRT1012B: Research and Analysis
+WRT1012,C,Research and Analysis,ADMIN 209,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,TuF,WRT1012C: Research and Analysis
+WRT1012,D,Research and Analysis,ADMIN 023,8/29/2022,12/16/2022,8:30:00 AM,10:00:00 AM,90,TuF,WRT1012D: Research and Analysis
+WRT1012,E,Research and Analysis,LEWIS 104,8/29/2022,12/16/2022,2:45:00 PM,3:45:00 PM,60,MWF,WRT1012E: Research and Analysis
+WRT3011,A,Advanced Writing,LEWIS 102,8/29/2022,12/16/2022,2:45:00 PM,4:15:00 PM,90,MTh,WRT3011A: Advanced Writing
