@@ -5,7 +5,7 @@ import { MessageList } from 'components/MessageList';
 import { ChatInput } from 'components/ChatInput';
 import { LeftRail } from 'components/LeftRail';
 import { ChatToolbar } from 'components/ChatToolbar';
-// import { ChatAvatar } from 'components/ChatAvatar';
+import { ChatAvatar } from 'components/ChatAvatar';
 
 export const Chatex = () => {
   const {
@@ -83,11 +83,7 @@ export const Chatex = () => {
             </div>
           ) : (
             <div className="no-chat-selected">
-              <img
-                src="/src/images/nochat.webp"
-                className="point-left"
-                // alt="no-available chats"
-              />
+              <i class="hand point left icon"></i>
               Select A Chat
             </div>
           )}

@@ -1,13 +1,11 @@
 //import {useChat} from 'context';
 import { Switch, Route, useHistory } from 'react-router-dom';
 import { Login, Signup, Admin, TeacherUI } from 'components';
-import { Chat } from 'components';
-// import { Chatui } from 'components';
+// import { Chat } from 'components';
 import { useAuth, useResolved } from 'hooks';
 import { useEffect } from 'react';
 import { ChatProvider } from 'context/ChatContext';
 import { fb } from 'service';
-// import Chatui from 'components/Chat/Chatui';
 import { Chatex } from 'components/Chat/originalc';
 import 'semantic-ui-css/semantic.min.css';
 
@@ -59,9 +57,7 @@ export const App = () => {
     <ChatProvider authUser={authUser}>
       <div className="app">
         <Switch>
-          {/* <Route path="/" exact component={Chat} /> */}
           <Route path="/" exact component={Chatex} />
-          {/* <Route path="/" exact component={Chatui} /> */}
           <Route path="/login" component={Login} />
           <Route path="/signup" component={Signup} />
           <Route path="/admin" component={Admin} />
