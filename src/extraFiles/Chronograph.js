@@ -164,7 +164,7 @@ function returnClassID(classTitle3) {
 function master() {
     checkClass();
     for (let a = 0; a < userBody.length; a++) {
-        const addToClass = require('./AdminTools');
+        const addToClass = require('./extraFiles/AdminTools');
         //console.log("is this undefined? " + userBody);
         let classIDret = returnClassID(userBody[a][1]);
         //console.log("this is undefined: " + classIDret);
