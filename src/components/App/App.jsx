@@ -1,13 +1,13 @@
 //import {useChat} from 'context';
-import { Switch, Route, useHistory } from 'react-router-dom';
-import { Login, Signup, Admin, TeacherUI } from 'components';
+import { Switch, Route, useHistory } from "react-router-dom";
+import { Login, Signup, Admin, TeacherUI } from "components";
 // import { Chat } from 'components';
-import { useAuth, useResolved } from 'hooks';
-import { useEffect } from 'react';
-import { ChatProvider } from 'context/ChatContext';
-import { fb } from 'service';
-import { Chatex } from 'components/Chat/originalc';
-import 'semantic-ui-css/semantic.min.css';
+import { useAuth, useResolved } from "hooks";
+import { useEffect } from "react";
+import { ChatProvider } from "context/ChatContext";
+import { fb } from "service";
+import { Chatex } from "components/Chat/originalc";
+import "semantic-ui-css/semantic.min.css";
 
 export const App = () => {
   const history = useHistory();
@@ -49,7 +49,7 @@ export const App = () => {
 
   useEffect(() => {
     if (authResolved) {
-      history.push(!!authUser ? '/' : '/login');
+      history.push(!!authUser ? "/" : "/login");
     }
   }, [authResolved, authUser, history]);
 
@@ -57,8 +57,8 @@ export const App = () => {
     <ChatProvider authUser={authUser}>
       <div className="app">
         <Switch>
-          <Route path="/" exact component={Chatex} />
-          <Route path="/login" component={Login} />
+          {/* <Route path="/" exact component={Chatex} /> */}
+          <Route path="/" component={Login} />
           <Route path="/signup" component={Signup} />
           <Route path="/admin" component={Admin} />
           <Route path="/teacher" component={TeacherUI} />
